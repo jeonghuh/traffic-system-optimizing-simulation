@@ -1,8 +1,11 @@
 # 전국 산업공학 대학생 경진대회 (2024 Field Camp)
 
-## 문제 제작 및 평가 위원 활동
-전국 산업공학과 학생을 대상으로 한 학술 교류 캠프 내 경진대회에서 문제 설계 및 평가위원으로 활동
-대한산업공학회 산하 학술 동아리 FIELD(Future Industrial Engineering Leaders and Dreamers)에서 주관하는 2024 FIELD CAMP
+## Overview
+전국 산업공학과 학생을 대상으로 한 학술 교류 캠프 내 경진대회에서 문제 설계 및 평가위원으로 활동하였습니다.
+
+- 2024 FIELD CAMP
+- 대한산업공학회 산하 학술 동아리 FIELD(Future Industrial Engineering Leaders and Dreamers)에서 주관
+- FIELD 동아리 내 학술교류부서인 Competition 부서로 활동하며 캠프 내 경진대회를 담당
 
 ## Activity Period
 
